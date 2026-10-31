@@ -15,7 +15,6 @@ test： 35 2363
 
 ### 🌞 **PVD: 光伏面板热成像监测数据集**  
 *——基于无人机捕获的热图像，用于自动光伏（PV）面板检测与故障诊断*
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/7bee6ad2834a478681f242cd40d5cfcd.png)
 
 | 项目 | 描述 |
 |------|------|
@@ -28,8 +27,7 @@ test： 35 2363
 | **任务类型** | 目标检测（Object Detection）、异常检测（Anomaly Detection） |
 | **数据划分** | 训练集（train）、验证集（val）、测试集（test） |
 
----![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c148feb15e9647ec8550cc1f6e0c22c2.png)
-
+---
 
 ### 📊 **数据集统计信息（按数据集划分）**
 
